@@ -13,7 +13,7 @@ public class TestGit {
         System.out.println("hahaha");
         System.out.println("hahahahaha");
         System.out.println("hahahahaha");
-        System.out.println("hahahahahahaha");
-        System.out.println("hahahahahahaha");
+        System.out.println("hot-fix test");
+        System.out.println("hot-fix test");
     }
 }
