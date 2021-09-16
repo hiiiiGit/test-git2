@@ -15,5 +15,7 @@ public class TestGit {
         System.out.println("hahahahaha");
         System.out.println("master test");
         System.out.println("master test");
+        System.out.println("hot-fix test");
+        System.out.println("hot-fix test");
     }
 }
